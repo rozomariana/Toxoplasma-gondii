@@ -6,7 +6,7 @@ Codigo empleado para el protecto de bioinformática titulado "Análisis de expre
 Los apuntes EEF y revisión del tema se encuentran aquí: 
 [Github](https://github.com/rozomariana/Toxoplasma-gondii/blob/main/Toxxoplasma.md)
 
-Información adicional se encuentra aquí: [Docs] (https://docs.google.com/document/d/1AW5XsEjp8kAaacoqrTNV1todCkHhk2zSJ5NVpu3jNuw/edit?pli=1&tab=t.0)
+Información adicional se encuentra aquí: [Docs](https://docs.google.com/document/d/1AW5XsEjp8kAaacoqrTNV1todCkHhk2zSJ5NVpu3jNuw/edit?pli=1&tab=t.0)
 
 Las instrucciones para entregas del proyecto de bioinformática:[Github](https://github.com/rozomariana/Toxoplasma-gondii/blob/main/Proyecto_instrucciones_bf%20(2).pdf)
 
