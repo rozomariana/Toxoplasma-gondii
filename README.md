@@ -1,7 +1,9 @@
 # _Toxoplasma-gondii_
 Información relevante y apuntes para el protecto de Toxoplasma EEF, Bioinformática y FLAP
 
-Codigo empleado para el protecto de bioinformática: Análisis de expresión diferencial de genes y exones de Toxoplasma gondii ME49 durante la infección crónica temprana y tardía. Se encuentra aquí: https://github.com/rozomariana/Toxoplasma-gondii/wiki
+Codigo empleado para el protecto de bioinformática:
+Análisis de expresión diferencial de genes y exones de Toxoplasma gondii ME49 durante la infección crónica temprana y tardía. Se encuentra aquí: https://github.com/rozomariana/Toxoplasma-gondii/wiki
 
 Los apuntes y revisión del tema se encuentran aquí: https://github.com/rozomariana/Toxoplasma-gondii/blob/main/Toxxoplasma.md
+Información adicional se encuentra aquí:https://docs.google.com/document/d/1AW5XsEjp8kAaacoqrTNV1todCkHhk2zSJ5NVpu3jNuw/edit?pli=1&tab=t.0
 
