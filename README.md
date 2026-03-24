@@ -7,6 +7,6 @@ Los apuntes EEF y revisión del tema se encuentran aquí: https://github.com/roz
 
 Información adicional se encuentra aquí: https://docs.google.com/document/d/1AW5XsEjp8kAaacoqrTNV1todCkHhk2zSJ5NVpu3jNuw/edit?pli=1&tab=t.0
 
-Las instrucciones para entregas del proyecto de bioinformática: 
+Las instrucciones para entregas del proyecto de bioinformática: https://github.com/rozomariana/Toxoplasma-gondii/blob/main/Proyecto_instrucciones_bf%20(2).pdf
 
 Intrucciones para el resumen del proyecto: https://www.flap2026.com/
